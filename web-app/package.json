@@ -2,7 +2,7 @@
   "name": "web-app",
   "version": "0.0.1",
   "scripts": {
-    "dev": "(set PORT=3006 || export PORT=3006) vite",
+    "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
