@@ -54,7 +54,7 @@ $ yarn dev
 # Compiles for production
 $ yarn build
 ```
-##### web-app Deployment
+##### backend-app Deployment
 ``` bash
 # run server
 $ yarn start
